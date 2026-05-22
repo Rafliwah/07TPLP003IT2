@@ -1,2 +1,0 @@
-# 07TPLP003IT2
-Exam2
